@@ -1,0 +1,215 @@
+.navbar-default {
+  font-family:Oswald;
+     background-color: rgba(248, 248, 248, 0);
+     border-color:rgba(248, 248, 248, 0);
+}
+.navbar-default .navbar-brand { font-size: 23px;
+
+    color: white;
+  }
+  .navbar-default .navbar-nav>li>a {
+    font-size: 23px;
+    color:white;
+  }
+.navbar-fixed-top {
+    top:100;
+   border-width: 0 0 1px;
+ }
+.top {
+    margin-top: 50px;
+}
+
+.logo {
+    display: inline;
+}
+
+.hero {
+  margin-top:-50px;
+    font-family: Oswald;
+    color: white;
+    text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1474377207190-a7d8b3334068?dpr=1.5&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb");
+    padding: 100px 100px 230px;
+    background-blend-mode: multiply;
+    background-color: #596261;
+    width: 100vw;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.whoh1 {
+    color: #241f11;
+    font-size: 57px;
+    padding-top: 84px;
+    font-family: Oswald;
+}
+
+.heroh1 {
+    font-size: 80px;
+}
+
+.imgmid {
+    margin-top: 10px;
+    margin: auto;
+}
+
+.whorow {
+    background-color: #c9d1d3;
+}
+
+.colmid {
+    padding: 0px 78px;
+    background-image: url("../cubes.png");
+    background-blend-mode: multiply;
+    background-color: #565E69;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.whoblock {
+    color: black;
+    text-align: center;
+    background-color: #c9d1d3;
+    background-repeat: no-repeat;
+}
+
+.whop {
+    font-size: 32px;
+    padding: 76px 60px 27px;
+}
+
+.web1 {
+    width: 100%;
+}
+
+.lessonblock {
+    text-align: center;
+}
+
+.block {
+    text-align: center;
+    background-image: url("../star1.png");
+    background-blend-mode: multiply;
+    background-color: #e4e7e9;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.gallerybottomrow {
+    padding: 20px 0px;
+}
+
+.socialh1 {
+    padding-top: 10px;
+}
+
+.socialh12 {
+    padding-top: 10px;
+    color: #E75050;
+}
+
+.socialh13 {
+    padding-top: 10px;
+    color: #A2DDD1;
+}
+
+.codeimg {
+    background-color: #c9d1d3;
+}
+
+.colmidbottom {
+    color: #C9B27F;
+    text-align: center;
+    font-family: Oswald;
+    padding: 0px 78px;
+    background-image: url("../socialbg.jpg");
+    background-blend-mode: multiply;
+    background-color: #3c4249;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.formblock {
+    margin-top: 81px;
+}
+
+.panel-heading {
+    text-align: center;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.panel-title {
+    padding: 18px;
+    font-family: Oswald;
+    font-size: 40px;
+}
+
+.galleryh1 {
+    color: #241f11;
+    font-size: 65px;
+    padding: 49px 0px;
+    font-family: Oswald;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    width: 100%;
+    margin: auto;
+}
+
+.btngreen {
+    color: white;
+    background-color: #156774;
+    padding: 16px;
+    font-family: Oswald;
+    font-size: 40px;
+    border: black 3px;
+    margin-bottom: 60px;
+}
+
+.contactblock {
+    background-color: #aab2b5
+}
+
+.btn-default:hover {
+    background-color: #8fe5f2;
+}
+
+.map {
+    text-align: center;
+}
+
+.bgmap {
+    background-color: #aab2b5;
+}
+
+.carousel-control.left, .carousel-control.right {
+    color: white;
+}
+
+@media (max-width: 767px) {
+    .whop {
+        padding: 0px;
+        padding-bottom: 10px;
+        font-size: 20px;
+    }
+    .contactblock {
+        padding-top: 11px;
+    }
+    .lessonblock {
+        padding-top: 10px;
+    }
+        .whoh1 {
+            padding: 0px;
+}
+}
