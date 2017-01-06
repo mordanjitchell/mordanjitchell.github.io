@@ -53,6 +53,7 @@
 .imgmid {
     margin-top: 10px;
     margin: auto;
+    padding-bottom:10px;
 }
 
 .whorow {
@@ -178,7 +179,7 @@
 }
 
 .contactblock {
-    background-color: #aab2b5
+    background-color: #aab2b5;
 }
 
 .btn-default:hover {
@@ -212,4 +213,17 @@
         .whoh1 {
             padding: 0px;
 }
+}
+.javascript{
+  text-align: center;
+}
+.jsh1{
+  color: #C9B27F;
+  font-size: 40px;
+  padding-top: 3px;
+  font-family: Oswald;
+}
+.javascript{
+  color: #C9B27F;
+  background-color: #596261;
 }
