@@ -15,6 +15,10 @@
     top:100;
    border-width: 0 0 1px;
  }
+ .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #c8c8c8;
+    background-color: transparent;
+}
 .top {
     margin-top: 50px;
 }
@@ -22,7 +26,9 @@
 .logo {
     display: inline;
 }
-
+.calcpic{
+  padding-top:68px;
+}
 .hero {
   margin-top:-50px;
     font-family: Oswald;
@@ -40,9 +46,9 @@
 }
 
 .whoh1 {
-    color: #241f11;
+    color:white;
     font-size: 57px;
-    padding-top: 84px;
+    padding-top: 20px;
     font-family: Oswald;
 }
 
@@ -57,7 +63,8 @@
 }
 
 .whorow {
-    background-color: #c9d1d3;
+  color:white;
+    background-color:#020e0f;
 }
 
 .colmid {
@@ -72,15 +79,15 @@
 }
 
 .whoblock {
-    color: black;
+    color: white;
     text-align: center;
-    background-color: #c9d1d3;
+    background-color:#020e0f;
     background-repeat: no-repeat;
 }
 
 .whop {
     font-size: 32px;
-    padding: 76px 60px 27px;
+    padding: 46px 60px 27px;
 }
 
 .web1 {
@@ -121,7 +128,7 @@
 }
 
 .codeimg {
-    background-color: #c9d1d3;
+    background-color: #020e0f;
 }
 
 .colmidbottom {
@@ -218,12 +225,12 @@
   text-align: center;
 }
 .jsh1{
-  color: #C9B27F;
+  color: black;
   font-size: 40px;
   padding-top: 3px;
   font-family: Oswald;
 }
-.javascript{
+.javascriptrow{
   color: #C9B27F;
-  background-color: #596261;
+  background-color: #aab2b5;
 }

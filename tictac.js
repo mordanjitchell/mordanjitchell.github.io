@@ -17,7 +17,7 @@ $(document).ready(function() {
     $datacell.click(function() {
         $(this).text(playerTurn);
         checkForWin();
-        playerTurn = (playerTurn == 'X') ? 'O' : 'X';
+        playerTurn = (playerTurn === 'X') ? 'O' : 'X';
     });
 
     $button.click(function() {
