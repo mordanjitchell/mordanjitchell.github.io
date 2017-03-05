@@ -234,3 +234,10 @@
   color: #C9B27F;
   background-color: #aab2b5;
 }
+
+.contactbutton
+{
+  height: 82px;
+    width: 293px;
+    font-size: 43px;
+}
