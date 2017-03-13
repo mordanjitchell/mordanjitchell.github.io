@@ -206,3 +206,26 @@
     width: 293px;
     font-size: 43px;
 }
+
+.responsive-video {
+    position: relative;
+    padding-bottom: 5.25%;
+    padding-top: 60px; overflow: hidden;
+    text-align: center;
+    margin: 0 auto;
+
+
+}
+
+.responsive-video iframe,
+.responsive-video object,
+.responsive-video embed {
+  top: 0;
+left: 0;
+width: 64%;
+height: 429px;
+text-align: center;
+margin: 0 auto;
+
+
+}
