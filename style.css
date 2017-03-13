@@ -34,10 +34,8 @@
     font-family: Oswald;
     color: white;
     text-align: center;
-    background-image: url("https://images.unsplash.com/photo-1474377207190-a7d8b3334068?dpr=1.5&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb");
+    background-image: url("../images/geobackground.jpg");
     padding: 100px 100px 230px;
-    background-blend-mode: multiply;
-    background-color: #596261;
     width: 100vw;
     background-attachment: fixed;
     background-position: center;
@@ -67,17 +65,6 @@
     background-color:#020e0f;
 }
 
-.colmid {
-    padding: 0px 78px;
-    background-image: url("../cubes.png");
-    background-blend-mode: multiply;
-    background-color: #565E69;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 .whoblock {
     color: white;
     text-align: center;
@@ -94,20 +81,7 @@
     width: 100%;
 }
 
-.lessonblock {
-    text-align: center;
-}
 
-.block {
-    text-align: center;
-    background-image: url("../star1.png");
-    background-blend-mode: multiply;
-    background-color: #e4e7e9;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 .gallerybottomrow {
     padding: 20px 0px;
@@ -136,7 +110,7 @@
     text-align: center;
     font-family: Oswald;
     padding: 0px 78px;
-    background-image: url("../socialbg.jpg");
+    background-image: url("../images/socialbg.jpg");
     background-blend-mode: multiply;
     background-color: #3c4249;
     background-attachment: fixed;
@@ -170,11 +144,6 @@
     font-family: Oswald;
 }
 
-.carousel-inner>.item>img, .carousel-inner>.item>a>img {
-    width: 100%;
-    margin: auto;
-}
-
 .btngreen {
     color: white;
     background-color: #156774;
@@ -199,10 +168,6 @@
 
 .bgmap {
     background-color: #aab2b5;
-}
-
-.carousel-control.left, .carousel-control.right {
-    color: white;
 }
 
 @media (max-width: 767px) {
