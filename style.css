@@ -34,7 +34,7 @@
     font-family: Oswald;
     color: white;
     text-align: center;
-    background-image: url("../images/geobackground.jpg");
+    background-image: url("../images/geobackground.jpg") !important;
     padding: 100px 100px 230px;
     width: 100vw;
     background-attachment: fixed;
